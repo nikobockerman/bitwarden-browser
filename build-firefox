@@ -1,0 +1,11 @@
+#!/bin/bash
+
+set -xv
+set -e
+
+version() {
+  git describe --tags
+}
+
+BUILD_NUMBER="$(version)" npm run dist:firefox
+
