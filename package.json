@@ -100,7 +100,7 @@
     "font-awesome": "4.7.0",
     "lunr": "2.3.3",
     "mousetrap": "1.6.2",
-    "ngx-infinite-scroll": "7.0.1",
+    "ngx-infinite-scroll": "^10.0.1",
     "node-forge": "0.10.0",
     "nord": "^0.2.1",
     "papaparse": "5.2.0",
